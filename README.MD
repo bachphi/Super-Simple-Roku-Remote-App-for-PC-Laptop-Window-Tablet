@@ -62,3 +62,5 @@ To enter Developer Mode on your Roku, press the following sequence on your physi
 🏠🏠🏠 &nbsp; ⬆️⬆️ &nbsp; ▶️◀️ &nbsp; ▶️◀️ &nbsp; ▶️
 
 
+## Screenshots
+![Main Window](Screenshots/SuperSimpleRokuRemote.PNG)
